@@ -8,9 +8,9 @@ export const personalInfo = {
   ],
   tagline: "Building scalable systems at the intersection of AI and elegant interfaces.",
   bio: "I'm a Computer Science student passionate about crafting high-performance full-stack systems and intelligent AI-powered applications. I thrive at the crossroads of clean architecture and thoughtful design — turning complex problems into seamless digital experiences.",
-  email: "masna.goutham@example.com",
-  phone: "+91 98765 43210",
-  location: "Hyderabad, India",
+  email: "goutham7819@gmail.com",
+  phone: "+91 72075 62859",
+  location: "Warangal, India",
   availableForWork: true,
   avatar: "/Profile.png",
 };
