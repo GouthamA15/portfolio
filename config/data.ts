@@ -3,7 +3,7 @@ export const personalInfo = {
   roles: [
     "Full Stack Developer",
     "AI Systems Engineer",
-    "Backend Architect",
+    "Backend Developer",
     "UI/UX Engineer",
   ],
   tagline: "Building scalable systems at the intersection of AI and elegant interfaces.",
@@ -25,9 +25,9 @@ export const education = [
   {
     id: "btech",
     degree: "B.Tech in Computer Science",
-    institution: "KUCET — Kurnool University College of Engineering & Technology",
+    institution: "KUCET — Kakatiya University College of Engineering & Technology",
     period: "2023 — 2027",
-    description: "Specializing in intelligent systems, distributed computing, and modern software engineering. Active in research on AI pipelines and campus-scale platforms.",
+    description: "Specializing in Data Science, distributed computing, and modern software engineering. Active in research on AI pipelines and campus-scale platforms.",
     current: true,
   },
   {
